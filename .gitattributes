@@ -1,0 +1,2 @@
+# Preservar os bytes do dataset e seu SHA256 em qualquer sistema.
+wines.csv -text
